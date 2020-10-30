@@ -1,9 +1,9 @@
 /*
 Função FizzBuzz
-Se divisivel por 3, retorna Fizz
+Se divisível por 3, retorna Fizz
 Se divisível por 5, retorna Buzz
 Se divisível por 3 e 5, retorna FizzBuzz
-Não divisível por 3 ou 4, retorna entrada
+Não divisível por 3 ou 5, retorna entrada
 Não é número, retorna "Não é um número"
 */
 
